@@ -1,5 +1,5 @@
 # Um pouco sobre mim... 😊✌️
-Olá, Me chamo Iago e estou me graduando em Sistemas da Informação e Análise e Desenvolvimento de Sistemas, com uma paixão especial pela área de programação, focada no desenvolvimento front-end. Minhas habilidades interpessoais, forte espírito de equipe e excelente comunicação me permitem colaborar de forma eficaz com colegas e clientes, sempre buscando soluções inovadoras.
+Olá, Me chamo Iago e estou me graduando em Sistemas da Informação e Análise e Desenvolvimento de Sistemas, com uma paixão especial pela área de programação. Minhas habilidades interpessoais, forte espírito de equipe e excelente comunicação me permitem colaborar de forma eficaz com colegas e clientes, sempre buscando soluções inovadoras.
 
 Tenho uma sede constante por novos conhecimentos e desafios, o que me impulsiona a evoluir como profissional e pessoa. Estou pronto para contribuir com minha capacidade de aprender rapidamente, adaptando-me às exigências do mercado e trazendo soluções criativas para os projetos. Estou ansioso por oportunidades onde eu possa aplicar minhas habilidades técnicas e crescer junto com uma equipe dedicada à excelência.
 
