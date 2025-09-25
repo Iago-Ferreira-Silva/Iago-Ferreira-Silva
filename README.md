@@ -1,4 +1,4 @@
-# 👨‍💻 Iago Ferreira Silva
+# 👨🏻‍💻 Iago Ferreira Silva
 
 **`Desenvolvedor Front-End e IA`**
 
