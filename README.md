@@ -168,6 +168,8 @@ Sou apaixonado por **programação**, com foco em **desenvolvimento front-end** 
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
