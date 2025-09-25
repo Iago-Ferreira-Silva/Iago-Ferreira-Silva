@@ -70,6 +70,14 @@ Sou apaixonado por **programação**, com foco em **desenvolvimento front-end** 
 />
 <img 
     align="left" 
+    alt="NodeJS" 
+    title="NodeJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
     alt="React"
     title="React" 
     width="30px" 
