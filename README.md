@@ -1,47 +1,212 @@
-<!-- Banner -->
-![Banner](https://raw.githubusercontent.com/Iago-Ferreira-Silva/Iago-Ferreira-Silva/main/assets/banner-github.gif)
+# 👨‍💻 Iago Ferreira Silva
 
-# 👨‍💻 Sobre mim
+**`Desenvolvedor Front-End e IA`**
+
 Olá! Me chamo **Iago Ferreira**, estudante de **Sistemas da Informação** e **Análise e Desenvolvimento de Sistemas**.  
 Sou apaixonado por **programação**, com foco em **desenvolvimento front-end** e crescente interesse em **Inteligência Artificial**.
 
 💡 Gosto de criar interfaces intuitivas, responsivas e funcionais que melhoram a experiência do usuário.  
 🤖 Paralelamente, estudo IA e suas aplicações no desenvolvimento de soluções inteligentes e inovadoras.  
-🚀 Meu objetivo é unir **tecnologia, design e inteligência artificial** para construir projetos que realmente façam a diferença.  
+🚀 Meu objetivo é unir **tecnologia, design e inteligência artificial** para construir projetos que realmente façam a diferença. 
+
+<p align="left">
+    <a href="https://github.com/Iago-Ferreira-Silva?tab=repositories">
+        <img 
+            alt="Total de repositórios" 
+            title="Meus repositórios" 
+            src="https://custom-icon-badges.demolab.com/badge/-Meus%20Repositórios-purple?style=for-the-badge&logoColor=white&logo=repo"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/iago-ferreira-9278ab257/">
+        <img 
+            alt="Likedin" 
+            title="Meu Likedin" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="mailto:iagoferreira008@gmail.com">
+        <img 
+            alt="Gmail" 
+            title="Meu Gmail" 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/Iago-Ferreira-Silva?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Iago-Ferreira-Silva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-ferreira-9278ab257/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iagoferreira.s)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iagoferreira008@gmail.com)  
+### 🤖 Linguagens e Tecnologias
 
----
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="VScode" 
+    title="VScode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="awswebservices" 
+    title="awswebservices"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="mysql" 
+    title="mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="docker" 
+    title="docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="streamlit" 
+    title="streamlit"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="trello" 
+    title="trello"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"
+/>
 
-## 🛠️ Habilidades
-### 💻 Front-end
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br/>
+<br/>
 
-### 🤖 Inteligência Artificial & Ferramentas
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 📊 Estatísticas
 
----
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Iago-Ferreira-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-## 📊 GitHub Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iago-Ferreira-Silva&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=fff&hide_title=true)
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-Ferreira-Silva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
----
+</p>
 
-## ⚡ Tecnologias Mais Usadas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Iago-Ferreira-Silva&layout=compact&bg_color=000&border_color=30A3DC&title_color=fff&text_color=FFF&hide_title=true)
-
----
-
-## 📌 Contribuições em Destaque
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Iago-Ferreira-Silva&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=fff)](https://github.com/Iago-Ferreira-Silva/dio-lab-open-source)
+<p align="left">
+    <a href="https://github.com/Iago-Ferreira-Silva?tab=repositories">
+        <img 
+            alt="Total de repositórios" 
+            title="Meus repositórios" 
+            src="https://custom-icon-badges.demolab.com/badge/-Meus%20Repositórios-purple?style=for-the-badge&logoColor=white&logo=repo"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/iago-ferreira-9278ab257/">
+        <img 
+            alt="Likedin" 
+            title="Meu Likedin" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="mailto:iagoferreira008@gmail.com">
+        <img 
+            alt="Gmail" 
+            title="Meu Gmail" 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/Iago-Ferreira-Silva?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Iago-Ferreira-Silva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
