@@ -179,34 +179,3 @@ Sou apaixonado por **programação**, com foco em **desenvolvimento front-end** 
   />
 
 </p>
-
-<p align="left">
-    <a href="https://github.com/Iago-Ferreira-Silva?tab=repositories">
-        <img 
-            alt="Total de repositórios" 
-            title="Meus repositórios" 
-            src="https://custom-icon-badges.demolab.com/badge/-Meus%20Repositórios-purple?style=for-the-badge&logoColor=white&logo=repo"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/iago-ferreira-9278ab257/">
-        <img 
-            alt="Likedin" 
-            title="Meu Likedin" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="mailto:iagoferreira008@gmail.com">
-        <img 
-            alt="Gmail" 
-            title="Meu Gmail" 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/Iago-Ferreira-Silva?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Iago-Ferreira-Silva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
