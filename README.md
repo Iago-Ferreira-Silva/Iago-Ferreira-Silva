@@ -42,7 +42,15 @@
 
 <img align="left" alt="NodeJS" title="NodeJS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 <img align="left" alt="Streamlit" title="Streamlit" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/>
+
+<br/><br/>
+
+**Templates**
+
+<img align="left" alt="Handlebars" title="Handlebars" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/handlebars/handlebars-original.svg"/>
+<img align="left" alt="Blade" title="Blade (Laravel)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
 
 <br/><br/>
 
@@ -74,11 +82,11 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Iago-Ferreira-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" 
+    src="https://github-readme-stats-4pbi.vercel.app/api?username=Iago-Ferreira-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" 
     height="200"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-Ferreira-Silva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
+    src="https://github-readme-stats-4pbi.vercel.app/api/top-langs/?username=Iago-Ferreira-Silva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
     height="200"
   />
 </div>
