@@ -100,7 +100,7 @@
 
 <div align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=Iago-Ferreira-Silva&theme=tokyonight&no-frame=true&row=1&column=7" 
+    src="https://github-profile-trophy-delta-henna.vercel.app/?username=Iago-Ferreira-Silva&theme=tokyonight&no-frame=true&row=1&column=7" 
     width="100%"
   />
 </div>
