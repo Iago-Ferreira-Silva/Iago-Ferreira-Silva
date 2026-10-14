@@ -178,27 +178,20 @@ const iago = {
 <h2 align="center">GitHub em números</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-4pbi.vercel.app/api?username=Iago-Ferreira-Silva&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=12" alt="Estatísticas do GitHub" height="190"/>
-  <img src="https://github-readme-stats-4pbi.vercel.app/api/top-langs/?username=Iago-Ferreira-Silva&layout=compact&langs_count=8&custom_title=Linguagens%20mais%20usadas&bg_color=0d1117&border_color=21262d&title_color=58a6ff&text_color=c9d1d9&border_radius=12" alt="Linguagens mais usadas" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Iago-Ferreira-Silva&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=0d1117&border_color=21262d&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=12" alt="Estatísticas do GitHub" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-Ferreira-Silva&layout=compact&langs_count=8&custom_title=Linguagens%20mais%20usadas&bg_color=0d1117&border_color=21262d&title_color=58a6ff&text_color=c9d1d9&border_radius=12" alt="Linguagens mais usadas" height="190" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Iago-Ferreira-Silva&locale=pt_BR&background=0D1117&border=21262D&stroke=21262D&ring=58A6FF&fire=1F6FEB&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&border_radius=12" alt="Sequência de contribuições" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Iago-Ferreira-Silva&locale=pt_BR&background=0D1117&border=21262D&stroke=21262D&ring=58A6FF&fire=1F6FEB&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&border_radius=12" alt="Sequência de contribuições" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iago-Ferreira-Silva&custom_title=Atividade%20recente&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9&area=true&area_color=1f6feb&hide_border=true&radius=12" alt="Gráfico de atividade" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy-delta-henna.vercel.app/?username=Iago-Ferreira-Silva&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="Troféus do GitHub" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Iago-Ferreira-Silva/Iago-Ferreira-Silva/output/github-contribution-grid-snake-blue.svg" alt="Gráfico de contribuições com a cobrinha" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Iago-Ferreira-Silva/Iago-Ferreira-Silva/output/github-contribution-grid-snake-blue.svg" alt="Animação das contribuições do GitHub" width="100%" />
 </p>
 
 <br/>
+
 
 <h2 align="center">Vamos conversar</h2>
 
