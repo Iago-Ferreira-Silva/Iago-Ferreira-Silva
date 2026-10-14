@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://iago-ferreira.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-ao%20vivo-161b22?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1f6feb" alt="Portfólio"/></a>
-<a href="https://www.linkedin.com/in/iago-ferreira-9278ab257/"><img src="https://img.shields.io/badge/LinkedIn-conectar-161b22?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f6feb" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/iago-ferreira-silva-9278ab257"><img src="https://img.shields.io/badge/LinkedIn-conectar-161b22?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f6feb" alt="LinkedIn"/></a>
 <a href="mailto:iagoferreira008@gmail.com"><img src="https://img.shields.io/badge/E--mail-enviar-161b22?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f6feb" alt="E-mail"/></a>
 
 </div>
@@ -200,7 +200,7 @@ const iago = {
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/iago-ferreira-9278ab257/"><img src="https://img.shields.io/badge/LinkedIn-Iago%20Ferreira-161b22?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f6feb" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/iago-ferreira-silva-9278ab257"><img src="https://img.shields.io/badge/LinkedIn-Iago%20Ferreira-161b22?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f6feb" alt="LinkedIn"/></a>
   <a href="https://github.com/Iago-Ferreira-Silva"><img src="https://img.shields.io/badge/GitHub-Iago--Ferreira--Silva-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb" alt="GitHub"/></a>
   <a href="https://iago-ferreira.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-iago--ferreira.vercel.app-161b22?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1f6feb" alt="Portfólio"/></a>
   <a href="mailto:iagoferreira008@gmail.com"><img src="https://img.shields.io/badge/E--mail-iagoferreira008%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f6feb" alt="E-mail"/></a>
