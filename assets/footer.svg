@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-labelledby="t d">
+  <title id="t">Rodapé</title>
+  <desc id="d">Obrigado pela visita. © 2026 Iago Ferreira Silva.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#010409"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="1" r="0.8">
+      <stop offset="0" stop-color="#1f6feb" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#1f6feb" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f6feb" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#1f6feb" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="1200" height="150" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="150" fill="url(#bg)"/>
+    <ellipse cx="600" cy="170" rx="520" ry="110" fill="url(#glow)">
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="6s" repeatCount="indefinite"/>
+    </ellipse>
+    <rect x="300" y="38" width="600" height="1.5" fill="url(#rule)"/>
+    <text x="600" y="80" text-anchor="middle" font-family="'Inter','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="500"
+          fill="#e6edf3" letter-spacing="0.5">Obrigado pela visita.</text>
+    <text x="600" y="108" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="13" letter-spacing="2"
+          fill="#58a6ff">© 2026 IAGO FERREIRA SILVA</text>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="149" rx="16" fill="none" stroke="#21262d"/>
+</svg>
